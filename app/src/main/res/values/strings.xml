@@ -4,4 +4,5 @@
     <string name="key_name">name</string>
     <string name="key_photo">photo</string>
     <string name="key_drink">drink</string>
+    <string name="title_activity_maps">DrinkMap</string>
 </resources>
